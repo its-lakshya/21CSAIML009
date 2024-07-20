@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "averagecalculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "dev": "nodemon --experimental-json-modules src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
